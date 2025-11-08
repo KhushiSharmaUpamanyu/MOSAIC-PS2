@@ -1,4 +1,5 @@
-# Multimodal Geometry Problem Solver
+
+# Multimodal Geometry Problem Solver-COMPUTER VISION TO APPLICATION
 
 This repository contains a **multimodal AI model** designed to solve elementary geometry problems by combining **computer vision**, **OCR**, **natural language processing (NLP)**, and **deep learning** techniques. The pipeline processes images of geometric diagrams and problem statements to predict correct answers.
 
